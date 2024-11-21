@@ -10,7 +10,7 @@ Também sou pesquisadora no Laboratório de Segurança e Criptografia Aplicada (
 
 ---
 
-## 🌟 Sobre Mim  
+## 🌟 Sobre mim 
 - 🎓 **Formação:** Sistemas de Informação (UFPA) e Engenharia de Software (UNINTER).  
 - 🔒 **Foco em:** Cibersegurança, Gestão da Segurança da Informação, Backend e Blockchain.  
 - 🚀 **Tecnologias:** Java, Spring Boot, Hyperledger Fabric.  
@@ -36,10 +36,39 @@ Também sou pesquisadora no Laboratório de Segurança e Criptografia Aplicada (
 
 ## 🤖 Linguagens e Tecnologias  
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
-<img align="left" alt="Hyperledger Fabric" title="Hyperledger Fabric" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/hyperledger/hyperledger.github.io/master/images/logos/fabric.png" />  
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img 
+  align= "left" 
+  alt= "Java" 
+  title= "Java" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>  
+
+<img 
+  align="left" 
+  alt="Spring Boot" 
+  title="Spring Boot" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>  
+
+<img 
+  align="left" 
+  alt="Hyperledger Fabric" 
+  title="Hyperledger Fabric" 
+  width="30px" 
+  style="padding-right: 10px;" src="https://raw.githubusercontent.com/hyperledger/hyperledger.github.io/master/images/logos/fabric.png" 
+/>  
+<img 
+  align="left" 
+  alt="Git" 
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>  
 
 <br/>  
 <br/>  
