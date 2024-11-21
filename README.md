@@ -17,15 +17,14 @@ Sou desenvolvedora e atuo na área de **cibersegurança**. Aqui no meu GitHub, v
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-%230074BE.svg?style=flat&logo=hyperledger&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?yasnagat=&layout=compact&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?yasnagat=seu-usuario&show_icons=true&theme=radical)
 
 ---
 
