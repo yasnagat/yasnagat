@@ -1,32 +1,69 @@
-# 👋 Olá, eu sou a Yasmim! 
+# 👩🏻‍💻 Yasmim Nagat  
 
-Sou desenvolvedora e atuo na área de **cibersegurança**. Aqui no meu GitHub, você encontrará projetos que refletem meu interesse por linguagens como **Java**, além de iniciativas em **blockchain** usando **Hyperledger Fabric**.
+**`Cibersegurança e Backend`**  
 
----
+Me chamo Yasmim, tenho 25 anos e sou apaixonada por tecnologia e segurança da informação. 
+Sou bacharelanda em **Sistemas de Informação** pela Universidade Federal do Pará e em **Engenharia de Software** pelo Centro Internacional UNINTER. 
+Atuo profissionalmente na área de **cibersegurança** e **gestão de segurança da informação** e tenho interesse especial em programação **backend** e **desenvolvimento web** utilizando **Java** e **Spring Boot**.  
 
-## 🌟 Sobre Mim
-- 🎓 **Bacharel em Sistemas de Informação** pela Universidade Federal (2024-).
-- 🎓 **Bacharel em Engenharia de Software** pelo Centro Internacional UNINTER (2023-).
-- 🔒 Foco em **gestão de segurança da informação** e **desenvolvimento de aplicações seguras**.
-- 🚀 Explorando tecnologias como **Spring Boot** e **Hyperledger Fabric**.
+Também sou pesquisadora no Laboratório de Segurança e Criptografia Aplicada (LABSC) da UFPA e atualmente estou desenvolvendo um projeto científico para modelagem e implementação de uma rede **blockchain** usando o framework **Hyperledger Fabric** e **Java**, aplicando conceitos de segurança e tecnologias inovadoras de sistemas distribuídos e resilientes.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-%230074BE.svg?style=flat&logo=hyperledger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+## 🌟 Sobre Mim  
+- 🎓 **Formação:** Sistemas de Informação (UFPA) e Engenharia de Software (UNINTER).  
+- 🔒 Foco em: Cibersegurança, Gestão da Segurança da Informação, Backend e Blockchain.  
+- 🚀 Tecnologias: Java, Spring Boot, Hyperledger Fabric.  
+
+<p align="left">  
+  <a href="https://github.com/yasnagat?tab=repositories&sort=stargazers">  
+    <img  
+      alt="Total de estrelas"  
+      title="Total de estrelas GitHub"  
+      src="https://custom-icon-badges.demolab.com/github/stars/yasnagat?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"  
+    />  
+  </a>  
+  <a href="https://github.com/yasnagat?tab=followers">  
+    <img  
+      alt="Seguidores"  
+      title="Me siga no GitHub"  
+      src="https://custom-icon-badges.demolab.com/github/followers/yasnagat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"  
+    />  
+  </a>  
+</p>  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🤖 Linguagens e Tecnologias  
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?yasnagat=&layout=compact&theme=radical)
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
+<img align="left" alt="Hyperledger Fabric" title="Hyperledger Fabric" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/hyperledger/hyperledger.github.io/master/images/logos/fabric.png" />  
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?yasnagat=yas-nagat&show_icons=true&theme=radical)
+<br/>  
+<br/>  
 
 ---
+
+## 📊 Estatísticas  
+
+<p>  
+  <img  
+    align="left"  
+    alt="GitHub Stats"  
+    height="200"  
+    style="padding-right: 10px;"  
+    src="https://github-readme-stats.vercel.app/api?username=yasnagat&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  
+  />  
+
+  <img  
+    align="left"  
+    alt="Linguagens Mais Usadas"  
+    height="200"  
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasnagat&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6"  
+  />  
+</p>  
 
 ## 📫 Entre em Contato
 - **LinkedIn:** www.linkedin.com/in/yasmim-yosano-886323253
