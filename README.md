@@ -24,7 +24,7 @@ Sou desenvolvedora e atuo na área de **cibersegurança**. Aqui no meu GitHub, v
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?yasnagat=&layout=compact&theme=radical)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?yasnagat=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?yasnagat=yas-nagat&show_icons=true&theme=radical)
 
 ---
 
