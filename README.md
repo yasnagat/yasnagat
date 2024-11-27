@@ -2,7 +2,7 @@
 
 **`Cibersegurança e Backend`**  
 
-Me chamo Yasmim, tenho 25 anos e sou apaixonada por programação e segurança da informação.  
+Olá! Me chamo Yasmim, tenho 25 anos e sou apaixonada por programação e segurança da informação.  
 Sou bacharelanda em **Sistemas de Informação** pela Universidade Federal do Pará e em **Engenharia de Software** pelo Centro Internacional UNINTER.  
 Atuo profissionalmente na área de **cibersegurança** e **gestão de segurança da informação**, com interesse especial em programação **backend** e **desenvolvimento web** utilizando **Java** e **Spring Boot**.  
 
