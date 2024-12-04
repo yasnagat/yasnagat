@@ -2,9 +2,9 @@
 
 **`Cibersegurança e Backend`**  
 
-Olá! Me chamo Yasmim, tenho 25 anos e sou apaixonada por programação e segurança da informação.  
+Olá! Me chamo Yasmim, tenho 25 anos e gosto de estudar soluções para o desenvolvimento seguro de aplicações e cibersegurança.  
 Sou bacharelanda em **Sistemas de Informação** pela Universidade Federal do Pará e em **Engenharia de Software** pelo Centro Internacional UNINTER.  
-Atuo profissionalmente na área de **cibersegurança** e **gestão de segurança da informação**, com interesse especial em programação **backend** e **desenvolvimento web** utilizando **Java** e **Spring Boot**.  
+Atuo profissionalmente na área de **gestão de segurança da informação**, e também tenho interesse em programação **backend** e **desenvolvimento web** utilizando **Java** e **Spring Boot**.  
 
 ---
 
@@ -17,7 +17,7 @@ Atuo profissionalmente na área de **cibersegurança** e **gestão de segurança
 - Sou pesquisadora no Laboratório de Segurança e Criptografia Aplicada (LABSC) da UFPA e atualmente estou desenvolvendo um projeto científico para modelagem e implementação de uma rede **blockchain** usando o framework **Hyperledger Fabric** e **Java**, aplicando conceitos de segurança e tecnologias inovadoras de sistemas distribuídos e resilientes.  
 
 ### 🌟 Áreas de Interesse
-- Backend Development.
+- Backend e Web Development.
 - Desenvolvimento de aplicações seguras e escaláveis.
 - Exploração de tecnologias emergentes como blockchain.
 
